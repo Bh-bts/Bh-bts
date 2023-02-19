@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Java with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
-- 🌱 I'm currently learning Appium automation.
+- 🌱 I'm currently learning API automation.
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks.**
 
