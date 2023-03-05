@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on **Java with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
-- 🌱 I'm currently learning API automation.
+- 🌱 I'm currently learning API automation with RestAssured framework.
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks.**
+- 👯 I’m looking to collaborate on **API Automation Testing, Selenium, Automation Frameworks.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/bh-bts)
 
-- 💬 Having a basic Knowledge of API testing using Karate Framework, Webapp automation testing using Katalon Studio.
+- 💬 Having a Knowledge of API testing using Karate Framework, Webapp automation testing using Katalon Studio.
 
 - 📝 Knowledge on how to generate test report using **ANT, TestNG, Extent reports.**
 
