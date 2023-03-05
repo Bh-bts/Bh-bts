@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/bhavin-thumar-633197217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pramoddutta" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bhavin.thumar.750/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="techdutta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhavin_thumar__bts/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thetestingacademy" height="30" width="40" /></a>
-<a href="https://devstory.fyi/bhavin-thumar" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/003/731/316/original/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" alt="thetestingacademy" height="30" width="40" /></a>
+<a href="https://devstory.fyi/bhavin-thumar" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet-thumbnail.png" alt="thetestingacademy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
