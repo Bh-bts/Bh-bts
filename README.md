@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhavin Thumar</h1>
 
-- 🔭 I’m currently working on **Java with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
+- 🔭 I’m currently working on Frontend testing **Java with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
-- 🌱 I'm currently learning API automation with RestAssured framework.
+- 🌱 I'm currently working on Backend testing(API automation) with RestAssured framework.
 
 - 👯 I’m looking to collaborate on **API Automation Testing, Selenium, Automation Frameworks.**
 
