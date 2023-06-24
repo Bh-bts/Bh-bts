@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhavin Thumar</h1>
 
-- 🔭 I’m currently working on Frontend testing **Java with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
+- 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
-- 🌱 I'm currently working on Backend testing(API automation) with RestAssured framework.
+- 🌱 Also I'm currently working on Backend testing(API automation) using **Rest Assured, TestNG and Java.**
 
 - 👯 I’m looking to collaborate on **API Automation Testing, Selenium, Automation Frameworks.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/bh-bts)
 
-- 💬 Having a Knowledge of API testing using Karate Framework, Webapp automation testing using Katalon Studio.
+- 💬 Having a Knowledge of API testing using Karate Framework, and Web app automation testing using Katalon Studio.
 
-- 📝 Knowledge on how to generate test report using **ANT, TestNG, Extent reports.**
+- 📝 Knowledge of generating test reports using **ANT, TestNG, and Extent reports.**
 
 - 📫 How to reach me **thumarbhavin.786@gmail.com**
 
