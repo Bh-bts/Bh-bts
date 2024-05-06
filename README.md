@@ -1,8 +1,6 @@
-<div align="center">
-    <span style="display: inline-block; font-size: 30px;">Hi,</span>
-    <img src="GIF/chatbot.gif" width="40" height="40" style="display: inline-block;">
-    <span style="display: inline-block; font-size: 30px;">I'm Bhavin Thumar</span>
-</div>
+<h1 align="center" style="display: flex; align-items: center;">
+    Hi,<img src="GIF/chatbot.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">I'm Bhavin Thumar
+</h1>
 
 - 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
