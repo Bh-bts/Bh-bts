@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bhavin Thumar</h1>
+<div style="text-align: center;">
+    <h1 style="display: inline;">Hi</h1>
+    <img src="GIF/chatbot.gif" width="40" height="40" style="display: inline;">
+    <h1 style="display: inline;">I'm Bhavin Thumar</h1>
+</div>
 
 - 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
