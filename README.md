@@ -2,6 +2,9 @@
     Hi,<img src="GIF/chatbot.gif" width="50px" height="50px" style="vertical-align: middle;" align="center">I'm Bhavin Thumar
 </h1>
 
+<img align="right" height="250" width="300" alt="GIF" src="GIF/old-robot.gif"/>
+
+
 - 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
 - 🌱 Also I'm currently working on Backend testing(API automation) using **Rest Assured, TestNG and Java.**
