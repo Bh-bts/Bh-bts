@@ -16,6 +16,10 @@
 
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/bhavin-thumar-633197217/)
 
+<h2 align="center" style="display: flex; align-items: center;">
+    <img src="GIF/dossier.gif" width="50px" height="50px" style="vertical-align: middle;" align="center"> A little more about me...
+</h2>
+
 ``` cpp
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.15;
