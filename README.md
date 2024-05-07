@@ -4,22 +4,73 @@
 
 <img align="right" height="250" width="300" alt="GIF" src="GIF/old-robot.gif"/>
 
+- 🔭 I’m currently working on UI testing **NodeJs with Playwright & NodeJs with Selenium.**
 
-- 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
+- 🌱 Also I'm currently working on API testing(API automation) using **Java with Playwright.**
 
-- 🌱 Also I'm currently working on Backend testing(API automation) using **Rest Assured, TestNG and Java.**
-
-- 👯 I’m looking to collaborate on **API Automation Testing, Selenium, Automation Frameworks.**
+- 👯 I’m looking to collaborate on **API Automation Testing, UI Testing.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/bh-bts)
 
-- 💬 Having a Knowledge of API testing using Karate Framework, and Web app automation testing using Katalon Studio.
-
-- 📝 Knowledge of generating test reports using **ANT, TestNG, and Extent reports.**
-
-- 📫 How to reach me **thumarbhavin.786@gmail.com**
+- 💬 Having a Knowledge of API testing using Playwright, and Web app automation testing using Selenium.
 
 - 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/bhavin-thumar-633197217/)
+
+``` cpp
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.15;
+
+contract Profile {
+    string public name = "Bhavin Thumar";
+    string public pronouns = "He | Him | His";
+    string public currentFocus = "Automation Testing";
+
+    string[] internal programmingSkills;
+    string[] internal automationTestingTools;
+    string[] internal testingFrameworks;
+
+
+constructor() {
+        programmingSkills = [
+            "Java", 
+            "JavaScript",
+            "Python"
+        ];
+        automationTestingTools = [
+            "Selenium",
+            "Playwright",
+            "Rest-Assured",
+            "Appium",
+            "Percy"
+        ];
+        testingFrameworks = [
+            "TestNG",
+            "Pytest"
+        ];
+    }
+
+    function getSkills() public view returns (string[] memory, string[] memory, string[] memory) {
+        return (programmingSkills, automationTestingTools, testingFrameworks);
+    }
+
+    function fun() public view returns (string memory) {
+        return "In the world of automation testing, bugs aren't feared they're expected guests, welcomed with open arms by our code!";
+    }
+
+    function contactMe() public pure returns (String memory){
+        string memory email = "thumarbhavin.786@gmail.com";
+
+        return string(abi.encodePacked("Feel free to reach out to me via email at ", email));
+    }
+}
+
+```
+![bh-bts's Stats](https://github-readme-stats.vercel.app/api?username=bh-bts&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![bh-bts's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bh-bts&theme=vue-dark&hide_border=true)
+
+![bh-bts's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bh-bts&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
